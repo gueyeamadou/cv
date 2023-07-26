@@ -1,0 +1,38 @@
+mark{
+	background-color: silver;
+	color: black;
+
+
+}
+h1{
+	text-align: center;
+	font-weight: bold;
+	text-decoration: underline;
+}
+h2{
+	font-size: medium;
+
+}
+
+p{
+	text-align:justify;
+}
+ul{
+	text-align:justify;
+
+}
+strong{
+	position: relative;
+	left: 100px;
+
+}	
+img{
+	width: 90px;
+	position:relative ;
+	left: 900px;
+	border-radius: 50%;
+}
+body{
+	background-color: whitesmoke;
+
+}
